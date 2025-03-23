@@ -11,6 +11,8 @@ A simple desktop application wrapper for ChatGPT, built with Electron.
 
 ## Installation
 
+I have included pre-built versions in the [releases](https://github.com/ChapDaddy65/DeskGPT/releases) section, otherwise feel free to continue with building the app yourself.
+
 1. Clone this repository:
 ```bash
 git clone https://github.com/yourusername/DeskGPT.git
